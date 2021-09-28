@@ -1,5 +1,5 @@
 # fuse8
-
+<font color='red'>test blue color font</font>
 ## Project setup
 ```
 npm install
